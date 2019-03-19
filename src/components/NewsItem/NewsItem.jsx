@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 
-import editIcon from '../../assets/images/icons/pen-solid.svg';
-
 import './styles.scss';
 
 class NewsItem extends Component {
